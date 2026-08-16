@@ -1,0 +1,6 @@
+{
+  "name": "그대의 마음을 unlock",
+  "description": "연인 간의 다양한 상황 속 공감 대화 연습과 Gemini AI 100점 채점 및 맞춤 피드백을 제공하는 하트싱크 연애 코칭 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
